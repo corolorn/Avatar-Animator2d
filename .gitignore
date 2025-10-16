@@ -1,0 +1,35 @@
+# Build artifacts
+/build/
+/out/
+/*.VC.db
+/*.VC.opendb
+
+# VS/VSCode
+.vs/
+.vscode/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.user
+compile_commands.json
+
+# Binaries
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.lib
+*.exp
+*.ipdb
+*.iobj
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+Desktop.ini
+
